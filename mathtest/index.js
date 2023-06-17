@@ -275,7 +275,7 @@ const questions = [
 		],
 	},
 	{
-		"question": "https://prnt.sc/y68u69-JB6hV",
+		"question": "https://cdn.discordapp.com/attachments/1084126940459438263/1119644840725053500/wh70KxE3Q9ucoCu9Nyqr-Q.png",
 		"answers": [
 			["7", false],
 			["720", true],
@@ -284,7 +284,7 @@ const questions = [
 		],
 	},
 	{
-		"question": "https://prnt.sc/YJpF4Q5PDr9N",
+		"question": "https://cdn.discordapp.com/attachments/1084126940459438263/1119644754393702450/097Zm0mSRZiMFmDLHlqxKw.png",
 		"answers": [
 			["7", false],
 			["720", false],
@@ -293,7 +293,7 @@ const questions = [
 		],
 	},
 	{
-		"question": "https://prnt.sc/ey-Jjmm36gZP",
+		"question": "https://media.discordapp.net/attachments/1084126940459438263/1119644654783189084/iMp-sj44RTaZd0usWFiH_g.png?width=547&height=81",
 		"answers": [
 			["7", true],
 			["720", false],
@@ -337,14 +337,14 @@ const questions = [
 		],
 	},
 	{
-		"question": "https://prnt.sc/1wpr97kMuUYg",
+		"question": "https://cdn.discordapp.com/attachments/1084126940459438263/1119644523950243962/qArTBLfkRHWKjhMQUsGk_g.png",
 		"answers": [
 			["صح", true],
 			["خطأ", false],
 		],
 	},
 	{
-		"question": "https://prnt.sc/_nO8LdD3jha3",
+		"question": "https://cdn.discordapp.com/attachments/1084126940459438263/1119644083728699453/IhBcV0aDQ2yw_WqzYfe6vQ.png",
 		"answers": [
 			["صح", true],
 			["خطأ", false],
