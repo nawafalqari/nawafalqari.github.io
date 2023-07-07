@@ -266,15 +266,6 @@ const questions = [
 		],
 	},
 	{
-		"question": "",
-		"answers": [
-			["", true],
-			["", false],
-			["", false],
-			["", false],
-		],
-	},
-	{
 		"question": "https://cdn.discordapp.com/attachments/1016003518353637386/1126358522142150666/image.png",
 		"answers": [
 			["٩", true],
