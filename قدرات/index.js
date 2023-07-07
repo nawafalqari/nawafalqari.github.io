@@ -1,4 +1,4 @@
-const testmode = true;
+const testmode = false;
 var testindex = 0;
 var score = 0;
 var answered = [];
