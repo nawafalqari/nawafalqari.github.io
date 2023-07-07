@@ -293,7 +293,7 @@ const questions = [
 		],
 	},
 	{
-		"question": "https://cdn.discordapp.com/attachments/1016003518353637386/1126409563588001913/image.png",
+		"question": "https://cdn.discordapp.com/attachments/1016003518353637386/1126728092094832730/image.png",
 		"answers": [
 			["٨", true],
 			["١٠", false],
